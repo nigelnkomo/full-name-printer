@@ -31,7 +31,7 @@ cd full-name-printer
 2. Run the script
 
 ```bash
-python3 src/full-name-printer.py
+python3 src/full_name_printer.py
 ```
 
 ## Project Documentation
