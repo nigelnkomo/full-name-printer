@@ -7,7 +7,7 @@ def get_formatted_name (last, occupation, middle):
 
     middle_str = ".".join(initials)
 
-    full_name = f"{middle_str.title()}. {last.title()}, {occupation.lower()}"
+    full_name = f"{middle_str.title()}. {last.title()}, {occupation}"
 
     return full_name
 
