@@ -14,7 +14,6 @@ full-name-printer/
 ├── src/
 │   ├── full_name_printer.py
 │   └── __init__.py
-
 └── tests/
     ├── __init__.py
     └── test_full_name_printer.py
