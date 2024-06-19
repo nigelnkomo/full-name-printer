@@ -4,6 +4,7 @@ This is a simple python script that concatenates the names of an individual and 
 
 ## Project Structure
 
+```
 full-name-printer/
 ├── docs/
 │   ├── design-doc.md
@@ -13,6 +14,7 @@ full-name-printer/
 │   └── full-name-printer.py
 └── tests/
     └── test-full-name-printer.py
+```
 
 ## Getting Started
 
@@ -31,9 +33,9 @@ python3 src/full-name-printer.py
 
 ## Project Documentation
 
-[project-overview.md](./docs/project-overview.md)
-[design-doc.md](./docs/design-doc.md)
+1. [project-overview.md](./docs/project-overview.md)
+2. [design-doc.md](./docs/design-doc.md)
 
 ## Contributors
 
-Nigel Nkomo
+1. Nigel Nkomo
