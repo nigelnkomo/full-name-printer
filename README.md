@@ -9,11 +9,15 @@ full-name-printer/
 ├── docs/
 │   ├── design-doc.md
 │   └── project-overview.md
+├── __init__.py
 ├── README.md
 ├── src/
-│   └── full-name-printer.py
+│   ├── full_name_printer.py
+│   └── __init__.py
+
 └── tests/
-    └── test-full-name-printer.py
+    ├── __init__.py
+    └── test_full_name_printer.py
 ```
 
 ## Getting Started
